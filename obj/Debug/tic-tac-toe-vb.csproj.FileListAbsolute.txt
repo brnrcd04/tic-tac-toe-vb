@@ -1,0 +1,12 @@
+C:\Users\bern\source\repos\tic-tac-toe-vb1\bin\Debug\tic-tac-toe-vb.exe.config
+C:\Users\bern\source\repos\tic-tac-toe-vb1\bin\Debug\tic-tac-toe-vb.xml
+C:\Users\bern\source\repos\tic-tac-toe-vb1\bin\Debug\tic-tac-toe-vb.exe
+C:\Users\bern\source\repos\tic-tac-toe-vb1\bin\Debug\tic-tac-toe-vb.pdb
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.csproj.AssemblyReference.cache
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.csproj.SuggestedBindingRedirects.cache
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic_tac_toe_vb.Form1.resources
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic_tac_toe_vb.Resources.resources
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.csproj.GenerateResource.cache
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.csproj.CoreCompileInputs.cache
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.exe
+C:\Users\bern\source\repos\tic-tac-toe-vb1\obj\Debug\tic-tac-toe-vb.pdb
